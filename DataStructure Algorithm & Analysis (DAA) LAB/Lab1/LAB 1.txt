@@ -121,7 +121,9 @@ Step 4: Customize the Chart
 2.	Y-axis: Time Taken (seconds)
 3.	Chart title: Selection Sort Performance
 2.	Adjust colors and styles as needed.
- 
+![Alt text](images/Chart1.png)
+
+
 4. Explanation of the Brute Force Approach
 Selection Sort is considered a brute force method because:
 1.	It scans the entire unsorted portion of the array to find the minimum element.
