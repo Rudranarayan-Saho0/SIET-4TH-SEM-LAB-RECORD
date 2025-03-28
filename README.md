@@ -1,2 +1,0 @@
-# SIET  4TH SEM LAB RECORD
- 
